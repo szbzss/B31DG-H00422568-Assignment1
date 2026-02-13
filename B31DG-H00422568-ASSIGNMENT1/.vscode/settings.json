@@ -1,0 +1,9 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\hh\\Desktop\\B31DG-H00422568-Assignment1\\B31DG-H00422568-ASSIGNMENT1\\build"
+  ]
+}
